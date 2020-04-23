@@ -1,0 +1,19 @@
+{
+  "name": "multiverse.js",
+  "version": "1.0.0",
+  "description": "multiverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/multiverse.js.git"
+  },
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/multiverse.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/multiverse.js#readme"
+}
